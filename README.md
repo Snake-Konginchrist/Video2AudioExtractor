@@ -5,7 +5,7 @@ Video2AudioExtractor是一个简单的Python项目，允许用户从指定文件
 
 ## 特性
 - 支持多种视频格式（.mp4, .avi, .mov, .mkv）
-- 支持多种音频格式（.mp3、.wav、.flac）
+- 支持多种音频格式（.mp3, .wav, .flac）
 - 简单易用的图形用户界面
 
 ## 安装
